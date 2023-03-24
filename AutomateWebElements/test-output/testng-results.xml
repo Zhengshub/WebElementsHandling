@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-23T04:56:11Z" name="Default suite" finished-at="2023-03-23T04:56:21Z" duration-ms="9669">
+    <groups>
+    </groups>
+    <test started-at="2023-03-23T04:56:11Z" name="Default test" finished-at="2023-03-23T04:56:21Z" duration-ms="9669">
+      <class name="CheckBoxes">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:CheckBoxes@38604b81]" started-at="2023-03-23T00:56:11Z" name="setUp" finished-at="2023-03-23T00:56:14Z" duration-ms="3158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="handleCheckBoxes()[pri:0, instance:CheckBoxes@38604b81]" started-at="2023-03-23T00:56:14Z" name="handleCheckBoxes" finished-at="2023-03-23T00:56:20Z" duration-ms="6198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleCheckBoxes -->
+        <test-method is-config="true" signature="cleanAfterAllTestMethods()[pri:0, instance:CheckBoxes@38604b81]" started-at="2023-03-23T00:56:20Z" name="cleanAfterAllTestMethods" finished-at="2023-03-23T00:56:21Z" duration-ms="302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanAfterAllTestMethods -->
+      </class> <!-- CheckBoxes -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
